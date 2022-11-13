@@ -1,14 +1,14 @@
 import { Box, Grid, GridItem, Image, Text } from "@chakra-ui/react";
 import axios from "axios";
 import { useEffect, useState } from "react";
-import { FaCrown, FaPlay } from "react-icons/fa";
+import { FaCrown } from "react-icons/fa";
 
-function OriginalWeb() {
+function TopTen() {
    const [data, setData] = useState([]);
 
    useEffect(() => {
       axios
-         .get(`https://zee5-hi-fi.onrender.com/zeeOriginalWebSeries`)
+         .get(`https://zee5-hi-fi.onrender.com/zeeTop10`)
          .then((res) => {
             setData(res.data);
          });
@@ -17,9 +17,9 @@ function OriginalWeb() {
    return (
       <Box m={5} mt={20} textAlign="left">
          <Text fontSize="4xl" fontWeight="bold" my={7}>
-            ZEE5 Hi-Fi TV Series
+            Top 10 in India
          </Text>
-         <Grid templateColumns="repeat(5, 1fr)" gap={4} my={4}>
+         <Grid templateColumns="repeat(5, 1fr)" gap={7} my={4}>
             {data.map((item, index) => (
                <GridItem key={index} cursor="pointer" position="relative">
                   <Image
@@ -31,16 +31,7 @@ function OriginalWeb() {
                   <Box className="card-icon" top="7px" left="7px">
                      <FaCrown />
                   </Box>
-                  <Box
-                     className="card-play-icon"
-                     h="3rem"
-                     w="3rem"
-                     top="41%"
-                     left="36%"
-                     fontSize="md"
-                  >
-                     <FaPlay style={{ marginLeft: "3px" }} />
-                  </Box>
+                  <Text className="top-ten-numbers">{item.top10Numbers}</Text>
                </GridItem>
             ))}
          </Grid>
@@ -48,4 +39,4 @@ function OriginalWeb() {
    );
 }
 
-export default OriginalWeb;
+export default TopTen;

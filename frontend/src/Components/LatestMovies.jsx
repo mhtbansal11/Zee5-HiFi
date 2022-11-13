@@ -1,7 +1,7 @@
 import { Box, Grid, Text } from "@chakra-ui/react";
 import axios from "axios";
 import { useEffect, useState } from "react";
-import Card from "../Components/common/Card";
+import Card from "./common/Card";
 
 function LatestMovies() {
    const [data, setData] = useState([]);
@@ -17,12 +17,14 @@ function LatestMovies() {
    return (
       <Box m={5} mt={20} textAlign="left">
          <Text fontSize="4xl" fontWeight="bold" my={7}>
-             Movies on ZEE5 Hi-Fi
+            Latest Movies on ZEE5 Hi-Fi
          </Text>
          <Grid
+            className="scrollBar"
             my={4}
-            gap={3}
-            templateColumns="repeat(5, 1fr)"
+            gap={4}
+            templateColumns="repeat(20, 1fr)"
+            overflowX={"scroll"}
          >
             {data.map((item, index) => (
                <Card item={item} index={index} />

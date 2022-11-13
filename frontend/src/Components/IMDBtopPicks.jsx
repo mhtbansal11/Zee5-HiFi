@@ -1,14 +1,14 @@
 import { Box, Grid, Text } from "@chakra-ui/react";
 import axios from "axios";
 import { useEffect, useState } from "react";
-import Card from "../Components/common/Card";
+import Card from "./common/Card";
 
-function LatestMovies() {
+function IMDBtopPicks() {
    const [data, setData] = useState([]);
 
    useEffect(() => {
       axios
-         .get(`https://zee5-hi-fi.onrender.com/zeeLatest`)
+         .get(`https://zee5-hi-fi.onrender.com/IMDBtopPicks`)
          .then((res) => {
             setData(res.data);
          });
@@ -17,12 +17,14 @@ function LatestMovies() {
    return (
       <Box m={5} mt={20} textAlign="left">
          <Text fontSize="4xl" fontWeight="bold" my={7}>
-             Movies on ZEE5 Hi-Fi
+            IMDB Top Picks
          </Text>
          <Grid
+            className="scrollBar"
             my={4}
-            gap={3}
-            templateColumns="repeat(5, 1fr)"
+            gap={4}
+            templateColumns="repeat(15, 1fr)"
+            overflowX={"scroll"}
          >
             {data.map((item, index) => (
                <Card item={item} index={index} />
@@ -32,4 +34,4 @@ function LatestMovies() {
    );
 }
 
-export default LatestMovies;
+export default IMDBtopPicks;
