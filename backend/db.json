@@ -1,0 +1,744 @@
+{
+    
+    "userCredentials": [
+      {
+        "email": "mhtbansal11@gmail.com",
+        "password": "error404"
+      }
+    ],
+    "zeeSlide": [
+      {
+        "url": "https://akamaividz2.zee5.com/image/upload/w_1188,h_475,c_scale,f_webp,q_auto:eco/resources/0-0-1z5228525/cover/1920x7701789cd01c98a4b098ff87b399b61530c3e52cc15ff174f4689cc1ebefe5b40ff.jpg",
+        "title": "Raksha Bandhan"
+      },
+      {
+        "url": "https://akamaividz2.zee5.com/image/upload/w_1420,h_569,c_scale,f_webp,q_auto:eco/resources/0-6-4z5199975/cover/1920x770146d749f8ff14971b38653f6029302ad.jpg",
+        "title": "Mukhbir - The story of a spy"
+      },
+      {
+        "url": "https://akamaividz2.zee5.com/image/upload/w_1420,h_569,c_scale,f_webp,q_auto:eco/resources/0-0-1z5233998/cover/1920x7708f0bd5fa44b34da6b6b8be4b4513ea46.jpg",
+        "title": "White Haired Devil Lady"
+      },
+      {
+        "url": "https://akamaividz2.zee5.com/image/upload/w_1420,h_569,c_scale,f_webp,q_auto:eco/resources/0-0-1z5227565/cover/1920x7704ce388d5a6e74dac8ad9255657da588f.jpg",
+        "title": "Karthikeya 2 (Hindi)"
+      },
+      {
+        "url": "https://akamaividz2.zee5.com/image/upload/w_1420,h_569,c_scale,f_webp,q_auto:eco/resources/0-6-4z5230436/cover/1920x77080a9ccaeef524481ad49d14208180c8a.jpg",
+        "title": "Tripling - Season 3"
+      },
+      {
+        "url": "https://akamaividz2.zee5.com/image/upload/w_1420,h_569,c_scale,f_webp,q_auto:eco/resources/0-6-4z5194280/cover/1920x77008b4524184ba4e3bbe0ba77829aeb4e6.jpg",
+        "title": "Sa Re Ga Ma Pa li'l Champs 2022 "
+      },
+      {
+        "url": "https://akamaividz2.zee5.com/image/upload/w_1420,h_569,c_scale,f_webp,q_auto:eco/resources/0-0-1z5250530/cover/1920x770129e19e854434fa98ff8734cfc2d6d32bf6bbf491bb046fdb38f88933efd4a78.jpg",
+        "title": "Bimbisara (Hindi)"
+      }
+    ],
+
+
+    "zeeTop10": [
+      {
+        "url": "https://akamaividz2.zee5.com/image/upload/w_195,h_293,c_scale,f_webp,q_auto:eco/resources/0-0-1z5177236/portrait/1920x770cd788cc8f66e4f27accee7da64d1e9cd.jpg",
+        "top10Numbers": "1",
+        "popupTitle": "Janhit Mein Jaari"
+      },
+      {
+        "url": "https://akamaividz2.zee5.com/image/upload/w_195,h_293,c_scale,f_webp,q_auto:eco/resources/0-6-4z5172328/portrait/1920x77007054b7e4c68467d92059e604b937ce4.jpg",
+        "top10Numbers": "2",
+        "popupTitle": "Maa Neella Tank"
+      },
+      {
+        "url": "https://akamaividz2.zee5.com/image/upload/w_195,h_293,c_scale,f_webp,q_auto:eco/resources/0-0-1z5181112/portrait/1920x7708502c7d44df94abb8df571634ddeff55.jpg",
+        "top10Numbers": "3",
+        "popupTitle": "Veetla Vishesham"
+      },
+      {
+        "url": "https://akamaividz2.zee5.com/image/upload/w_195,h_293,c_scale,f_webp,q_auto:eco/resources/0-6-4z5172356/portrait/1920x7705a2073dc89d04da2926dbcd3886785aaa974ce344e704cabb3b0556de80eaa7b.jpg",
+        "top10Numbers": "4",
+        "popupTitle": "Saas Bahu Achaar Pvt. Ltd."
+      },
+      {
+        "url": "https://akamaividz2.zee5.com/image/upload/w_195,h_293,c_scale,f_webp,q_auto:eco/resources/0-0-1z5149852/portrait/1920x7708760d4e6a1c8429cbfea6f1e4a375f6d25ac3d74d6544bc89704d6475e368c79.jpg",
+        "top10Numbers": "5",
+        "popupTitle": "Forensic"
+      },
+      {
+        "url": "https://akamaividz2.zee5.com/image/upload/w_195,h_293,c_scale,f_webp,q_auto:eco/resources/0-0-1z5168144/portrait/1920x7709b5906f9ab1347e7915762097af21c2e.jpg",
+        "top10Numbers": "6",
+        "popupTitle": "Dhaakad"
+      },
+      {
+        "url": "https://akamaividz2.zee5.com/image/upload/w_195,h_293,c_scale,f_webp,q_auto:eco/resources/0-6-4z5145215/portrait/1920x770abf42130d9cf41dab2bf9e648cf3193b0b8736722f40431bb31a5214ab98851c.jpg",
+        "top10Numbers": "7",
+        "popupTitle": "The Broken News"
+      },
+      {
+        "url": "https://akamaividz2.zee5.com/image/upload/w_195,h_293,c_scale,f_webp,q_auto:eco/resources/0-0-1z5145092/portrait/1920x7702e1f16a2d4f4479284dabf671658897e.jpg",
+        "top10Numbers": "8",
+        "popupTitle": "RRR"
+      },
+      {
+        "url": "https://akamaividz2.zee5.com/image/upload/w_195,h_293,c_scale,f_webp,q_auto:eco/resources/0-0-1z5161064/portrait/1920x770141bcd9ccf9945d490a7935a3cc311069180d7d5e4c248279410203ac82bc67d.jpg",
+        "top10Numbers": "9",
+        "popupTitle": "Dharmaveer: Mukkam Post Thane"
+      },
+      {
+        "url": "https://akamaividz2.zee5.com/image/upload/w_195,h_293,c_scale,f_webp,q_auto:eco/resources/0-6-1965/portrait/1920x770fa2a0768d2f64c07abef5d580c170cb0.jpg",
+        "top10Numbers": "10",
+        "popupTitle": "Fingertip"
+      }
+    ],
+
+
+    "zeeLatest": [
+      {
+        "url": "https://akamaividz2.zee5.com/image/upload/w_195,h_293,c_scale,f_webp,q_auto:eco/resources/0-0-1z5149852/portrait/1920x7708760d4e6a1c8429cbfea6f1e4a375f6d25ac3d74d6544bc89704d6475e368c79.jpg",
+        "popupTitle": "Forensic",
+        "audioLangString": "Hindi",
+        "duration": "2h 8m",
+        "genre1": "Crime",
+        "genre2": "Thriller"
+      },
+      {
+        "url": "https://akamaividz2.zee5.com/image/upload/w_195,h_293,c_scale,f_webp,q_auto:eco/resources/0-0-1z5161064/portrait/1920x770141bcd9ccf9945d490a7935a3cc311069180d7d5e4c248279410203ac82bc67d.jpg",
+        "popupTitle": "Dharmaveer: Mukkam Post Thane",
+        "audioLangString": "Marathi",
+        "duration": "2h 47m",
+        "genre1": "Biopic",
+        "genre2": "Drama"
+      },
+      {
+        "url": "https://akamaividz2.zee5.com/image/upload/w_195,h_293,c_scale,f_webp,q_auto:eco/resources/0-0-1z5168144/portrait/1920x7709b5906f9ab1347e7915762097af21c2e.jpg",
+        "popupTitle": "Dhaakad",
+        "audioLangString": "Hindi",
+        "duration": "2h 5m",
+        "genre1": "Crime",
+        "genre2": "Mystery"
+      },
+      {
+        "url": "https://akamaividz2.zee5.com/image/upload/w_195,h_293,c_scale,f_webp,q_auto:eco/resources/0-0-1z5177236/portrait/1920x770cd788cc8f66e4f27accee7da64d1e9cd.jpg",
+        "popupTitle": "Janhit Mein Jaari",
+        "audioLangString": "Hindi",
+        "duration": "2h 21m",
+        "genre1": "Comedy",
+        "genre2": "Drama"
+      },
+      {
+        "url": "https://akamaividz2.zee5.com/image/upload/w_195,h_293,c_scale,f_webp,q_auto:eco/resources/0-0-1z5133458/portrait/1920x77060dd64aa6ef748f48bbdf4951a1f6af7b51352ca11794ad79904fded999459e7.jpg",
+        "popupTitle": "The Kashmir Files",
+        "audioLangString": "Hindi",
+        "duration": "2h 43m",
+        "genre1": "Drama",
+        "genre2": ""
+      },
+      {
+        "url": "https://akamaividz2.zee5.com/image/upload/w_195,h_293,c_scale,f_webp,q_auto:eco/resources/0-101-10z5145273/portrait/1920x770681eb40058c046b7927bea554484d07f.jpg",
+        "popupTitle": "RRR",
+        "audioLangString": "",
+        "duration": "",
+        "genre1": "",
+        "genre2": ""
+      },
+      {
+        "url": "https://akamaividz2.zee5.com/image/upload/w_195,h_293,c_scale,f_webp,q_auto:eco/resources/0-0-1z5133622/portrait/1920x7705ef1215cc2984b548b3356566bf54c3d712772e37d5341fe9df182c9f5732ecf.jpg",
+        "popupTitle": "Jhund",
+        "audioLangString": "Hindi",
+        "duration": "2h 49m",
+        "genre1": "Biopic",
+        "genre2": "Sports"
+      },
+      {
+        "url": "https://akamaividz2.zee5.com/image/upload/w_195,h_293,c_scale,f_webp,q_auto:eco/resources/0-0-1z5146416/portrait/1920x77030295e51fe54452d8c85e76c5ec756e892b2b3c05ed24c43919a4293fbe8344b.jpg",
+        "popupTitle": "Attack: Part 1",
+        "audioLangString": "Hindi",
+        "duration": "1h 57m",
+        "genre1": "Action",
+        "genre2": ""
+      },
+      {
+        "url": "https://akamaividz2.zee5.com/image/upload/w_195,h_293,c_scale,f_webp,q_auto:eco/resources/0-0-1z5168593/portrait/1920x770d32fb5a532b54f718e18d08ae5bfe599.jpg",
+        "popupTitle": "Bangarraju (Hindi)",
+        "audioLangString": "Hindi",
+        "duration": "2h 31m",
+        "genre1": "Drama",
+        "genre2": "Comedy"
+      },
+      {
+        "url": "https://akamaividz2.zee5.com/image/upload/w_195,h_293,c_scale,f_webp,q_auto:eco/resources/0-0-1z5148935/portrait/1920x770345aac620b1b4b0188b9b4cbad67f485.jpg",
+        "popupTitle": "Ardh",
+        "audioLangString": "Hindi",
+        "duration": "1h 23m",
+        "genre1": "Comedy",
+        "genre2": "Drama"
+      },
+      {
+        "url": "https://akamaividz2.zee5.com/image/upload/w_195,h_293,c_scale,f_webp,q_auto:eco/resources/0-0-1z5129922/portrait/1920x770f5cd699c80af47118085d23a878faa68.jpg",
+        "popupTitle": "Spider-Man: No Way Home",
+        "audioLangString": "English, Hindi, Tamil, Telugu",
+        "duration": "2h 19m",
+        "genre1": "Adventure",
+        "genre2": "Fantasy"
+      },
+      {
+        "url": "https://akamaividz2.zee5.com/image/upload/w_195,h_293,c_scale,f_webp,q_auto:eco/resources/0-0-1z5176983/portrait/1920x770b12bd17d704c48c4aacd37e15cc183da.jpg",
+        "popupTitle": "The Wild Goose Lake",
+        "audioLangString": "English",
+        "duration": "1h 46m",
+        "genre1": "Crime",
+        "genre2": "Action"
+      },
+      {
+        "url": "https://akamaividz2.zee5.com/image/upload/w_195,h_293,c_scale,f_webp,q_auto:eco/resources/0-0-1z5176982/portrait/1920x77042e129fc00244061afc5515e76ecb441.jpg",
+        "popupTitle": "The Farewell",
+        "audioLangString": "English",
+        "duration": "1h 35m",
+        "genre1": "Drama",
+        "genre2": "Adventure"
+      },
+      {
+        "url": "https://akamaividz2.zee5.com/image/upload/w_195,h_293,c_scale,f_webp,q_auto:eco/resources/0-0-1z5156101/portrait/1920x7702f5c1d7a0eee45bdbdd6f473c9f51fe8.jpg",
+        "popupTitle": "Radhe Shyam",
+        "audioLangString": "Hindi",
+        "duration": "2h 15m",
+        "genre1": "Romance",
+        "genre2": "Drama"
+      },
+      {
+        "url": "https://akamaividz2.zee5.com/image/upload/w_195,h_293,c_scale,f_webp,q_auto:eco/resources/0-0-1z5145103/portrait/1920x770189f07ded33c4436b6d1796409308f04.jpg",
+        "popupTitle": "Zombivli",
+        "audioLangString": "Marathi",
+        "duration": "2h 8m",
+        "genre1": "Horror",
+        "genre2": "Comedy"
+      },
+      {
+        "url": "https://akamaividz2.zee5.com/image/upload/w_195,h_293,c_scale,f_webp,q_auto:eco/resources/0-0-1z5168387/portrait/1920x77048d8392e87ec44d3a8fd89c036019e9e.jpg",
+        "popupTitle": "Shut Up Sona",
+        "audioLangString": "English, Hindi",
+        "duration": "1h 25m",
+        "genre1": "Documentary",
+        "genre2": "Drama"
+      },
+      {
+        "url": "https://akamaividz2.zee5.com/image/upload/w_195,h_293,c_scale,f_webp,q_auto:eco/resources/0-0-1z5117565/portrait/1920x7708e744fbdcb554e54a1036108a0832ebf.jpg",
+        "popupTitle": "Valimai (Hindi)",
+        "audioLangString": "Hindi",
+        "duration": "2h 33m",
+        "genre1": "Action",
+        "genre2": "Crime"
+      },
+      {
+        "url": "https://akamaividz2.zee5.com/image/upload/w_195,h_293,c_scale,f_webp,q_auto:eco/resources/0-0-1z562203/portrait/1920x7706847e0d919d448328eeb2f88b259d73a0fd8743b1e984c9782e72e68355cf49e.jpg",
+        "popupTitle": "Antim: The Final Truth",
+        "audioLangString": "Hindi",
+        "duration": "2h 15m",
+        "genre1": "Action",
+        "genre2": "Crime"
+      },
+      {
+        "url": "https://akamaividz2.zee5.com/image/upload/w_195,h_293,c_scale,f_webp,q_auto:eco/resources/0-0-1z595840/portrait/1920x770e7d51316ea6740c39197181f81575868.jpg",
+        "popupTitle": "Love Hostel",
+        "audioLangString": "Hindi",
+        "duration": "1h 40m",
+        "genre1": "Crime",
+        "genre2": "Thriller"
+      },
+      {
+        "url": "https://akamaividz2.zee5.com/image/upload/w_195,h_293,c_scale,f_webp,q_auto:eco/resources/0-0-73415/portrait/1920x770546cc83b519e4088b6f0bec6cdd6e7d275cce518f27e420ea676dda625c6b0d3.jpg",
+        "popupTitle": "The Tashkent Files",
+        "audioLangString": "Hindi",
+        "duration": "2h 19m",
+        "genre1": "suspense",
+        "genre2": "Thriller"
+      }
+    ],
+
+
+    "zeeOriginalWebSeries": [
+      {
+        "url": "https://akamaividz2.zee5.com/image/upload/w_195,h_293,c_scale,f_webp,q_auto:eco/resources/0-6-4z5172356/portrait/1920x7705a2073dc89d04da2926dbcd3886785aaa974ce344e704cabb3b0556de80eaa7b.jpg",
+        "popupTitle": "Saas Bahu Achaar Pvt. Ltd."
+      },
+      {
+        "url": "https://akamaividz2.zee5.com/image/upload/w_195,h_293,c_scale,f_webp,q_auto:eco/resources/0-6-4z5145215/portrait/1920x770abf42130d9cf41dab2bf9e648cf3193b0b8736722f40431bb31a5214ab98851c.jpg",
+        "popupTitle": "The Broken News"
+      },
+      {
+        "url": "https://akamaividz2.zee5.com/image/upload/w_195,h_293,c_scale,f_webp,q_auto:eco/resources/0-6-4z5173774/portrait/1920x7708830a8a4737c4a05ae1c0df6201026b4d90c01692d7e44458802840dbff3589e.jpg",
+        "popupTitle": "Rangbaaz: Darr Ki Rajneeti"
+      },
+      {
+        "url": "https://akamaividz2.zee5.com/image/upload/w_195,h_293,c_scale,f_webp,q_auto:eco/resources/0-6-1298/portrait/1920x770d9ead07e5b304a989d85cf8c6e0113fb.jpg",
+        "popupTitle": "Abhay"
+      },
+      {
+        "url": "https://akamaividz2.zee5.com/image/upload/w_195,h_293,c_scale,f_webp,q_auto:eco/resources/0-6-4z587408/portrait/1920x770195db875fe204fa4afe115764b5dc00ba004028948aa4211b107faed649301d7.jpg",
+        "popupTitle": "Mithya"
+      },
+      {
+        "url": "https://akamaividz2.zee5.com/image/upload/w_195,h_293,c_scale,f_webp,q_auto:eco/resources/0-6-4z596111/portrait/1920x7709fcbdd4c78184b51aadd7e2e34396dbf.jpg",
+        "popupTitle": "Bloody Brothers"
+      },
+      {
+        "url": "https://akamaividz2.zee5.com/image/upload/w_195,h_293,c_scale,f_webp,q_auto:eco/resources/0-6-3064/portrait/1920x770f6f1d5315e9145808275b6b69e6572f7.jpg",
+        "popupTitle": "Bicchoo Ka Khel"
+      },
+      {
+        "url": "https://akamaividz2.zee5.com/image/upload/w_195,h_293,c_scale,f_webp,q_auto:eco/resources/0-6-4z560880/portrait/1920x77049b3662989f0475198d1963a5d256ebc.jpg",
+        "popupTitle": "Kaun Banegi Shikharwati"
+      },
+      {
+        "url": "https://akamaividz2.zee5.com/image/upload/w_195,h_293,c_scale,f_webp,q_auto:eco/resources/0-6-3502/portrait/1920x77096c3c9d32c6946bb933bef0e7463b7af.jpg",
+        "popupTitle": "Pavitra Rishta 2.0 – It’s Never Too Late"
+      },
+      {
+        "url": "https://akamaividz2.zee5.com/image/upload/w_195,h_293,c_scale,f_webp,q_auto:eco/resources/0-6-4z5130773/portrait/1920x7708e0b2f3ad3bb45b8be8b3073d20fb1aa.jpg",
+        "popupTitle": "Anantham"
+      },
+      {
+        "url": "https://akamaividz2.zee5.com/image/upload/w_195,h_293,c_scale,f_webp,q_auto:eco/resources/0-6-3044/portrait/063044incover98740071191a4d21bb818ea29d68541e.jpg",
+        "popupTitle": "Taish"
+      },
+      {
+        "url": "https://akamaividz2.zee5.com/image/upload/w_195,h_293,c_scale,f_webp,q_auto:eco/resources/0-6-2356/portrait/1920x770ffdfc616c75840cf95545cd67e3476d6e2fb2ce4623c4ebaa29b36ba97edf983.jpg",
+        "popupTitle": "Never Kiss Your Best Friend"
+      }
+    ],
+
+
+
+    "IMDBtopPicks": [
+      {
+        "url": "https://akamaividz2.zee5.com/image/upload/w_195,h_293,c_scale,f_webp,q_auto:eco/resources/0-0-1z5145092/portrait/1920x7702e1f16a2d4f4479284dabf671658897e.jpg",
+        "popupTitle": "RRR",
+        "audioLangString": "Telugu",
+        "duration": "3h 4m",
+        "genre1": "Action",
+        "genre2": "Period Drama"
+      },
+      {
+        "url": "https://akamaividz2.zee5.com/image/upload/w_195,h_293,c_scale,f_webp,q_auto:eco/resources/0-0-1z5133622/portrait/1920x7705ef1215cc2984b548b3356566bf54c3d712772e37d5341fe9df182c9f5732ecf.jpg",
+        "popupTitle": "Jhund",
+        "audioLangString": "Hindi",
+        "duration": "2h 49m",
+        "genre1": "Biopic",
+        "genre2": "Sports"
+      },
+      {
+        "url": "https://akamaividz2.zee5.com/image/upload/w_195,h_293,c_scale,f_webp,q_auto:eco/resources/0-0-1z5148935/portrait/1920x770345aac620b1b4b0188b9b4cbad67f485.jpg",
+        "popupTitle": "Ardh",
+        "audioLangString": "Hindi",
+        "duration": "1h 23m",
+        "genre1": "Comedy",
+        "genre2": "Drama"
+      },
+      {
+        "url": "https://akamaividz2.zee5.com/image/upload/w_195,h_293,c_scale,f_webp,q_auto:eco/resources/0-0-59341/portrait/1920x7706a5cd32f471c4f78a3dee8fcd236f95cd11020f7da2f44e4a0102a0cdfda1e6b.jpg",
+        "popupTitle": "Jersey",
+        "audioLangString": "Telugu",
+        "duration": "2h 30m",
+        "genre1": "Drama",
+        "genre2": "Sports"
+      },
+      {
+        "url": "https://akamaividz2.zee5.com/image/upload/w_195,h_293,c_scale,f_webp,q_auto:eco/resources/0-0-1z5161064/portrait/1920x770141bcd9ccf9945d490a7935a3cc311069180d7d5e4c248279410203ac82bc67d.jpg",
+        "popupTitle": "Dharmaveer: Mukkam Post Thane",
+        "audioLangString": "Marathi",
+        "duration": "2h 47m",
+        "genre1": "Biopic",
+        "genre2": "Drama"
+      },
+      {
+        "url": "https://akamaividz2.zee5.com/image/upload/w_195,h_293,c_scale,f_webp,q_auto:eco/resources/0-0-1z5133458/portrait/1920x77060dd64aa6ef748f48bbdf4951a1f6af7b51352ca11794ad79904fded999459e7.jpg",
+        "popupTitle": "The Kashmir Files",
+        "audioLangString": "Hindi",
+        "duration": "2h 43m",
+        "genre1": "Drama",
+        "genre2": ""
+      },
+      {
+        "url": "https://akamaividz2.zee5.com/image/upload/w_195,h_293,c_scale,f_webp,q_auto:eco/resources/0-0-1z571846/portrait/1920x770364454fc4bf746c1956eb58e21632145.jpg",
+        "popupTitle": "Garuda Gamana Vrishabha Vahana",
+        "audioLangString": "Kannada",
+        "duration": "2h 30m",
+        "genre1": "Crime",
+        "genre2": "Thriller"
+      },
+      {
+        "url": "https://akamaividz2.zee5.com/image/upload/w_195,h_293,c_scale,f_webp,q_auto:eco/resources/0-0-movie_1921832123/portrait/00movie192183215775429881577a1ad6512311c4c54a24ade6841caf1e8.jpg",
+        "popupTitle": "Sairat",
+        "audioLangString": "Marathi",
+        "duration": "2h 46m",
+        "genre1": "Drama",
+        "genre2": "Romance"
+      },
+      {
+        "url": "https://akamaividz2.zee5.com/image/upload/w_195,h_293,c_scale,f_webp,q_auto:eco/resources/0-6-3284/portrait/1920x770ffd5406dde2541ddb0a0d4dcc57ee834.jpg",
+        "popupTitle": "Sunflower",
+        "audioLangString": "",
+        "duration": "",
+        "genre1": "",
+        "genre2": ""
+      },
+      {
+        "url": "https://akamaividz2.zee5.com/image/upload/w_195,h_293,c_scale,f_webp,q_auto:eco/resources/0-0-191767/portrait/1920x77053cf74597a844465a32a47be18aa0f8bc1c7bc4f2c8d4ef6a580720e57f259f1.jpg",
+        "popupTitle": "Moothon",
+        "audioLangString": "Malayalam",
+        "duration": "1h 52m",
+        "genre1": "Drama",
+        "genre2": "Action"
+      },
+      {
+        "url": "https://akamaividz2.zee5.com/image/upload/w_195,h_293,c_scale,f_webp,q_auto:eco/resources/0-6-2955/portrait/1920x7702bde888e01a54a1688ff0a84809a657aef9692fca19245ee980762d8461cfb17.jpg",
+        "popupTitle": "Jeet Ki Zid",
+        "audioLangString": "",
+        "duration": "",
+        "genre1": "",
+        "genre2": ""
+      },
+      {
+        "url": "https://akamaividz2.zee5.com/image/upload/w_195,h_293,c_scale,f_webp,q_auto:eco/resources/0-0-soodhukavvum/portrait/1920x770f61e60986e524fa499f6c860b8c88e2da0336570dab14c618665a38450c17928.jpg",
+        "popupTitle": "Soodhu Kavvum",
+        "audioLangString": "Tamil",
+        "duration": "2h 7m",
+        "genre1": "Crime",
+        "genre2": "Action"
+      },
+      {
+        "url": "https://akamaividz2.zee5.com/image/upload/w_195,h_293,c_scale,f_webp,q_auto:eco/resources/0-0-1z529263/portrait/1920x77053ca64a3a5a948919937b81eb7f2a7f8cb719fc89bb14adaaa3a92c09ff55aa0.jpg",
+        "popupTitle": "Qismat 2",
+        "audioLangString": "Punjabi",
+        "duration": "2h 28m",
+        "genre1": "Romance",
+        "genre2": "Drama"
+      },
+      {
+        "url": "https://akamaividz2.zee5.com/image/upload/w_195,h_293,c_scale,f_webp,q_auto:eco/resources/0-0-1z588913/portrait/1920x7702a30ca0b76504a10990a663d0c4a55d48022e00d8b3e4ca594841aa15dbed611.jpg",
+        "popupTitle": "Tonic",
+        "audioLangString": "Bengali",
+        "duration": "2h 7m",
+        "genre1": "Drama",
+        "genre2": ""
+      },
+      {
+        "url": "https://akamaividz2.zee5.com/image/upload/w_195,h_293,c_scale,f_webp,q_auto:eco/resources/0-0-369273/portrait/1920x7707c47b251e254462c80266717d90ba9be.jpg",
+        "popupTitle": "Silence...Can You Hear It?",
+        "audioLangString": "Hindi",
+        "duration": "2h 16m",
+        "genre1": "Mystery",
+        "genre2": "Thriller"
+      }
+    ],
+
+
+
+    "leadingLadies": [
+      {
+        "url": "https://akamaividz2.zee5.com/image/upload/w_195,h_293,c_scale,f_webp,q_auto:eco/resources/0-6-4z5172356/portrait/1920x7704fe2f6ee01744cfc9f20007b29472a79.jpg",
+        "popupTitle": "Saas Bahu Achaar Pvt. Ltd.",
+        "audioLangString": "",
+        "duration": "",
+        "genre1": "",
+        "genre2": ""
+      },
+      {
+        "url": "https://akamaividz2.zee5.com/image/upload/w_195,h_293,c_scale,f_webp,q_auto:eco/resources/0-0-1z5177236/portrait/1920x770c10a267e362144ae9a8d5c60199fd633.jpg",
+        "popupTitle": "Janhit Mein Jaari",
+        "audioLangString": "Hindi",
+        "duration": "2h 21m",
+        "genre1": "Comedy",
+        "genre2": "Drama"
+      },
+      {
+        "url": "https://akamaividz2.zee5.com/image/upload/w_195,h_293,c_scale,f_webp,q_auto:eco/resources/0-101-10z5172591/portrait/1920x77023bb491ffba5847e68743bd71140e596b.jpg",
+        "popupTitle": "Forensic",
+        "audioLangString": "",
+        "duration": "",
+        "genre1": "",
+        "genre2": ""
+      },
+      {
+        "url": "https://akamaividz2.zee5.com/image/upload/w_195,h_293,c_scale,f_webp,q_auto:eco/resources/0-6-4z560880/portrait/1920x77049b3662989f0475198d1963a5d256ebc.jpg",
+        "popupTitle": "Kaun Banegi Shikharwati",
+        "audioLangString": "",
+        "duration": "",
+        "genre1": "",
+        "genre2": ""
+      },
+      {
+        "url": "https://akamaividz2.zee5.com/image/upload/w_195,h_293,c_scale,f_webp,q_auto:eco/resources/0-6-4z5145215/portrait/1920x770abf42130d9cf41dab2bf9e648cf3193b0b8736722f40431bb31a5214ab98851c.jpg",
+        "popupTitle": "The Broken News",
+        "audioLangString": "",
+        "duration": "",
+        "genre1": "",
+        "genre2": ""
+      },
+      {
+        "url": "https://akamaividz2.zee5.com/image/upload/w_195,h_293,c_scale,f_webp,q_auto:eco/resources/0-6-4z543444/portrait/1920x770aafb9b5212694c7695e6bfe215ea0ff6.jpg",
+        "popupTitle": "Qatil Haseenaon Ke Naam",
+        "audioLangString": "",
+        "duration": "",
+        "genre1": "",
+        "genre2": ""
+      },
+      {
+        "url": "https://akamaividz2.zee5.com/image/upload/w_195,h_293,c_scale,f_webp,q_auto:eco/resources/0-0-movie_1424717826/portrait/00movie14247178262653619629a630c6a9a0e467abf50068be0e8a209.jpg",
+        "popupTitle": "Veere Di Wedding",
+        "audioLangString": "Hindi",
+        "duration": "1h 57m",
+        "genre1": "Comedy",
+        "genre2": "Rom Com"
+      },
+      {
+        "url": "https://akamaividz2.zee5.com/image/upload/w_195,h_293,c_scale,f_webp,q_auto:eco/resources/0-6-1741/portrait/061741incover.jpg",
+        "popupTitle": "Kaafir",
+        "audioLangString": "",
+        "duration": "",
+        "genre1": "",
+        "genre2": ""
+      },
+      {
+        "url": "https://akamaividz2.zee5.com/image/upload/w_195,h_293,c_scale,f_webp,q_auto:eco/resources/0-0-33879/portrait/0033879incover468067630.jpg",
+        "popupTitle": "The Lovely Mrs. Mookherjee",
+        "audioLangString": "Bengali",
+        "duration": "52m",
+        "genre1": "Drama",
+        "genre2": ""
+      },
+      {
+        "url": "https://akamaividz2.zee5.com/image/upload/w_195,h_293,c_scale,f_webp,q_auto:eco/resources/0-6-tvshow_304564789/portrait/06tvshow3045641436360016.jpg",
+        "popupTitle": "Karenjit Kaur",
+        "audioLangString": "",
+        "duration": "",
+        "genre1": "",
+        "genre2": ""
+      },
+      {
+        "url": "https://akamaividz2.zee5.com/image/upload/w_195,h_293,c_scale,f_webp,q_auto:eco/resources/0-6-2471/portrait/062471incover1188182921118800796a599bac44cea2eef989c2065e42.jpg",
+        "popupTitle": "Mentalhood",
+        "audioLangString": "",
+        "duration": "",
+        "genre1": "",
+        "genre2": ""
+      },
+      {
+        "url": "https://akamaividz2.zee5.com/image/upload/w_195,h_293,c_scale,f_webp,q_auto:eco/resources/0-6-2007/portrait/062007incover1527602585.jpg",
+        "popupTitle": "Jamai 2.0",
+        "audioLangString": "",
+        "duration": "",
+        "genre1": "",
+        "genre2": ""
+      },
+      {
+        "url": "https://akamaividz2.zee5.com/image/upload/w_195,h_293,c_scale,f_webp,q_auto:eco/resources/0-0-1z541512/portrait/1920x770bbe9c8c511064804967dd0c4a427f0f0.jpg",
+        "popupTitle": "Iskaboner Rani",
+        "audioLangString": "Bengali",
+        "duration": "2h 11m",
+        "genre1": "Comedy",
+        "genre2": "Drama"
+      },
+      {
+        "url": "https://akamaividz2.zee5.com/image/upload/w_195,h_293,c_scale,f_webp,q_auto:eco/resources/0-0-110026/portrait/00110026incove2474052082470d021491e5ae4673a146b0e123bf1b4c.jpg",
+        "popupTitle": "Saand Ki Aankh",
+        "audioLangString": "Hindi",
+        "duration": "2h 20m",
+        "genre1": "Biopic",
+        "genre2": ""
+      },
+      {
+        "url": "https://akamaividz2.zee5.com/image/upload/w_195,h_293,c_scale,f_webp,q_auto:eco/resources/0-0-1z513117/portrait/1920x770478c174d17894ab79a63d72e6b02a830d72d7d1a03fc4037a8b321b5519c5a8e.jpg",
+        "popupTitle": "Rashmi Rocket",
+        "audioLangString": "Hindi",
+        "duration": "2h 9m",
+        "genre1": "Sports",
+        "genre2": "Drama"
+      },
+      {
+        "url": "https://akamaividz2.zee5.com/image/upload/w_195,h_293,c_scale,f_webp,q_auto:eco/resources/0-6-2161/portrait/062161incover.jpg",
+        "popupTitle": "Fittrat",
+        "audioLangString": "",
+        "duration": "",
+        "genre1": "",
+        "genre2": ""
+      },
+      {
+        "url": "https://akamaividz2.zee5.com/image/upload/w_195,h_293,c_scale,f_webp,q_auto:eco/resources/0-0-75947/portrait/0075947incove1432153597.jpg",
+        "popupTitle": "Posham Pa",
+        "audioLangString": "Hindi",
+        "duration": "1h 15m",
+        "genre1": "Based on True Events",
+        "genre2": ""
+      },
+      {
+        "url": "https://akamaividz2.zee5.com/image/upload/w_195,h_293,c_scale,f_webp,q_auto:eco/resources/0-6-2006/portrait/1920x7701841267543184126754391f0ff96e4e74355a388f2ab41608172.jpg",
+        "popupTitle": "Mission Over Mars",
+        "audioLangString": "",
+        "duration": "",
+        "genre1": "",
+        "genre2": ""
+      },
+      {
+        "url": "https://akamaividz2.zee5.com/image/upload/w_195,h_293,c_scale,f_webp,q_auto:eco/resources/0-6-2922/portrait/1920x77049928193.jpg",
+        "popupTitle": "Churails",
+        "audioLangString": "",
+        "duration": "",
+        "genre1": "",
+        "genre2": ""
+      },
+      {
+        "url": "https://akamaividz2.zee5.com/image/upload/w_195,h_293,c_scale,f_webp,q_auto:eco/resources/0-6-3172/portrait/063172incover782762971.jpg",
+        "popupTitle": "Dev DD 2",
+        "audioLangString": "",
+        "duration": "",
+        "genre1": "",
+        "genre2": ""
+      }
+    ],
+
+
+
+    "premiumBollywood": [
+      {
+        "url": "https://akamaividz2.zee5.com/image/upload/w_195,h_293,c_scale,f_webp,q_auto:eco/resources/0-0-96839/portrait/1920x77062fa79ad2a00435ca0ef053f6a476a74.jpg",
+        "popupTitle": "Dream Girl",
+        "duration": "2h 5m",
+        "genre1": "Comedy",
+        "genre2": "Romance"
+      },
+      {
+        "url": "https://akamaividz2.zee5.com/image/upload/w_195,h_293,c_scale,f_webp,q_auto:eco/resources/0-0-35166/portrait/1920x770a6695f542cf3419291a6bc299aa894f3.jpg",
+        "popupTitle": "Simmba",
+        "duration": "2h 31m",
+        "genre1": "Action",
+        "genre2": ""
+      },
+      {
+        "url": "https://akamaividz2.zee5.com/image/upload/w_195,h_293,c_scale,f_webp,q_auto:eco/resources/0-0-399328/portrait/1920x770a44ed4e50d1a4bbda6263e0e3827d500566de68e2bba45f787a4ceab521a3a7f.jpg",
+        "popupTitle": "Radhe - Your Most Wanted Bhai",
+        "duration": "1h 49m",
+        "genre1": "Crime",
+        "genre2": "Action"
+      },
+      {
+        "url": "https://akamaividz2.zee5.com/image/upload/w_195,h_293,c_scale,f_webp,q_auto:eco/resources/0-0-movie_1511761297/portrait/1920x770580834ad70b34512ba4250d277e68313.jpg",
+        "popupTitle": "Shaadi Mein Zaroor Aana",
+        "duration": "2h 10m",
+        "genre1": "Comedy",
+        "genre2": "Romance"
+      },
+      {
+        "url": "https://akamaividz2.zee5.com/image/upload/w_195,h_293,c_scale,f_webp,q_auto:eco/resources/0-0-27132/portrait/1920x770d1edc80582d845ffadbb89aa802c967b5ee1a2f6dd514d9bb193c3c269165cc3.jpg",
+        "popupTitle": "Kedarnath",
+        "duration": "1h 53m",
+        "genre1": "",
+        "genre2": "Based on True Events"
+      },
+      {
+        "url": "https://akamaividz2.zee5.com/image/upload/w_195,h_293,c_scale,f_webp,q_auto:eco/resources/0-0-360780/portrait/00360780incov19104135101910ba9d459f4fe1431d8abd54a9800dd03b.jpg",
+        "popupTitle": "Vijay The Master",
+        "duration": "2h 50m",
+        "genre1": "Action",
+        "genre2": "Thriller"
+      },
+      {
+        "url": "https://akamaividz2.zee5.com/image/upload/w_195,h_293,c_scale,f_webp,q_auto:eco/resources/0-0-33204/portrait/1920x7703503ae621e77472380267408e9a0ad90.jpg",
+        "popupTitle": "Uri: The Surgical Strike",
+        "duration": "2h 12m",
+        "genre1": "Drama",
+        "genre2": "Action"
+      },
+      {
+        "url": "https://akamaividz2.zee5.com/image/upload/w_195,h_293,c_scale,f_webp,q_auto:eco/resources/0-0-6728/portrait/006728incover12314315123104ac0c30c9504cd28e37143696169d67.jpg",
+        "popupTitle": "Mulk",
+        "duration": "2h 14m",
+        "genre1": "Based on True Events",
+        "genre2": ""
+      },
+      {
+        "url": "https://akamaividz2.zee5.com/image/upload/w_195,h_293,c_scale,f_webp,q_auto:eco/resources/0-0-2539/portrait/tamasha1920x770cdb0783ecd574efb92ad5031c8a2c8e5.jpg",
+        "popupTitle": "Tamasha",
+        "duration": "2h 19m",
+        "genre1": "Musical",
+        "genre2": "Romance"
+      },
+      {
+        "url": "https://akamaividz2.zee5.com/image/upload/w_195,h_293,c_scale,f_webp,q_auto:eco/resources/0-0-toiletekpremkatha/portrait/1920x7701497425846.jpg",
+        "popupTitle": "Toilet: Ek Prem Katha",
+        "duration": "2h 28m",
+        "genre1": "Comedy",
+        "genre2": ""
+      },
+      {
+        "url": "https://akamaividz2.zee5.com/image/upload/w_195,h_293,c_scale,f_webp,q_auto:eco/resources/0-0-105985/portrait/rockstarhi1920x770.jpg",
+        "popupTitle": "Rockstar",
+        "duration": "2h 31m",
+        "genre1": "Tragedy",
+        "genre2": "Romance"
+      },
+      {
+        "url": "https://akamaividz2.zee5.com/image/upload/w_195,h_293,c_scale,f_webp,q_auto:eco/resources/0-0-307715/portrait/00307715incov1533673836.jpg",
+        "popupTitle": "Suraj Pe Mangal Bhari",
+        "duration": "2h 13m",
+        "genre1": "Comedy",
+        "genre2": "Romance"
+      },
+      {
+        "url": "https://akamaividz2.zee5.com/image/upload/w_195,h_293,c_scale,f_webp,q_auto:eco/resources/0-0-260877/portrait/1920x770b54df793bd114abda9ca8762f7ae293e.jpg",
+        "popupTitle": "Khaali Peeli",
+        "duration": "1h 53m",
+        "genre1": "Action",
+        "genre2": "Romance"
+      },
+      {
+        "url": "https://akamaividz2.zee5.com/image/upload/w_195,h_293,c_scale,f_webp,q_auto:eco/resources/0-0-73415/portrait/1920x770546cc83b519e4088b6f0bec6cdd6e7d275cce518f27e420ea676dda625c6b0d3.jpg",
+        "popupTitle": "The Tashkent Files",
+        "duration": "2h 19m",
+        "genre1": "suspense",
+        "genre2": "Thriller"
+      },
+      {
+        "url": "https://akamaividz2.zee5.com/image/upload/w_195,h_293,c_scale,f_webp,q_auto:eco/resources/0-0-2418/portrait/002418cover1278794152.jpg",
+        "popupTitle": "Besharam",
+        "duration": "2h 11m",
+        "genre1": "Comedy",
+        "genre2": "Romance"
+      },
+      {
+        "url": "https://akamaividz2.zee5.com/image/upload/w_195,h_293,c_scale,f_webp,q_auto:eco/resources/0-0-anjaanaanjaani/portrait/00anjaanaanjaan2052915706.jpg",
+        "popupTitle": "Anjaana Anjaani",
+        "duration": "2h 25m",
+        "genre1": "Comedy",
+        "genre2": "Romance"
+      },
+      {
+        "url": "https://akamaividz2.zee5.com/image/upload/w_195,h_293,c_scale,f_webp,q_auto:eco/resources/0-0-189437/portrait/00189437incover.jpg",
+        "popupTitle": "Omerta",
+        "duration": "1h 32m",
+        "genre1": "",
+        "genre2": "Based on True Events"
+      },
+      {
+        "url": "https://akamaividz2.zee5.com/image/upload/w_195,h_293,c_scale,f_webp,q_auto:eco/resources/0-0-122732/portrait/00122732incov1352570625135217a753ba57e64c269633ffe0a6fed413.jpg",
+        "popupTitle": "Hotel Mumbai",
+        "duration": "2h",
+        "genre1": "Based on True Events",
+        "genre2": ""
+      },
+      {
+        "url": "https://akamaividz2.zee5.com/image/upload/w_195,h_293,c_scale,f_webp,q_auto:eco/resources/0-0-39320/portrait/0039320incover392670425392613b3e793d0740cba9b43eb43e6771a7.jpg",
+        "popupTitle": "The Accidental Prime Minister",
+        "duration": "1h 44m",
+        "genre1": "",
+        "genre2": "Based on True Events"
+      },
+      {
+        "url": "https://akamaividz2.zee5.com/image/upload/w_195,h_293,c_scale,f_webp,q_auto:eco/resources/0-0-22261/portrait/1920x7709bddac9dd4654f4fa82dcec0f8008fe73a476cbc626649d0a98457f0a0cfa933.jpg",
+        "popupTitle": "Manmarziyaan",
+        "duration": "2h 28m",
+        "genre1": "Musical",
+        "genre2": "Romance"
+      }
+    ]
+  }
