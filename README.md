@@ -25,8 +25,8 @@
     <li>
      <div>
          <h4>homepage</h4>
-         <img src="https://i.postimg.cc/WdQpWdYw/home1.png" alt=" homepage"/>
-         <img src="https://i.postimg.cc/V5YfVQgp/home2.png" alt=" homepage"/>
+         <img src="https://i.postimg.cc/25CQ7Vn7/home1.png" alt=" homepage"/>
+         <img src="https://i.postimg.cc/tR8mtNJd/home2.png" alt=" homepage"/>
          <img src="https://i.postimg.cc/ZvKJBp04/home3.png" alt=" homepage"/>
          <img src="https://i.postimg.cc/F7z9hy2x/home4.png" alt=" homepage"/>
          <img src="https://i.postimg.cc/WtXNRWf3/home5.png" alt=" homepage"/>
