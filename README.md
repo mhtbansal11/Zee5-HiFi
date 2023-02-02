@@ -27,22 +27,22 @@
          <h4>homepage</h4>
          <img src="https://i.postimg.cc/25CQ7Vn7/home1.png" alt=" homepage"/>
          <img src="https://i.postimg.cc/tR8mtNJd/home2.png" alt=" homepage"/>
-         <img src="https://i.postimg.cc/ZvKJBp04/home3.png" alt=" homepage"/>
-         <img src="https://i.postimg.cc/F7z9hy2x/home4.png" alt=" homepage"/>
-         <img src="https://i.postimg.cc/WtXNRWf3/home5.png" alt=" homepage"/>
-         <img src="https://i.postimg.cc/hz0StpD2/home6.png" alt=" homepage"/>
+         <img src="https://i.postimg.cc/1tfJD8ZY/home3.png" alt=" homepage"/>
+         <img src="https://i.postimg.cc/Yq18NcJk/home4.png" alt=" homepage"/>
+         <img src="https://i.postimg.cc/k40F8wsB/home5.png" alt=" homepage"/>
+         <img src="https://i.postimg.cc/x8LGPHpg/home6.png" alt=" homepage"/>
      </div>
     </li>
     <li>
      <div>
          <h4>Login </h4>
-         <img src="https://i.postimg.cc/v1fYpGpF/login.png" alt="login"/>
+         <img src="https://i.postimg.cc/L6M38ChW/login.png" alt="login"/>
      </div>
     </li> 
     <li>
      <div>
          <h4>Signup</h4>
-         <img src="https://i.postimg.cc/CB0h0WgZ/signup.png" alt="signup"/>
+         <img src="https://i.postimg.cc/CKdjQ96R/signup.png" alt="signup"/>
      </div>
     </li> 
    
